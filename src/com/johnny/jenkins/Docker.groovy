@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-package com.johnny.jenkins.pipeline
+package com.johnny.jenkins
 
 import com.johnny.jenkins.Config
 
