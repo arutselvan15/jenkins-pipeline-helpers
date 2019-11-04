@@ -4,7 +4,7 @@ package com.johnny.jenkins
 
 class Config{
   // config map
-  def config = [
+  static def config = [
     versionFile : "/etc/version.txt",
     
     // git configs
